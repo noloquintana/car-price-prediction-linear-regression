@@ -74,7 +74,6 @@ El proyecto incluye un gráfico de dispersión que compara **precios reales vs p
 
 ---
 
-## Estructura del Proyecto
 
 
 # English
@@ -154,4 +153,3 @@ The project includes a scatter plot comparing **real prices vs predicted prices*
 
 ---
 
-## Project Structure
